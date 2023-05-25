@@ -13,6 +13,13 @@
    
 }
 
+.Memories img{
+    justify-content: center;
+    flex: 15%;
+    margin: center;
+    margin-right: 45%;
+}
+
 .Baby{
     color: rgb(255, 91, 91);
 }
