@@ -1,6 +1,10 @@
 .Rotation img{
     margin-left: 45%;
-   
+    justify-content: center;
+}
+
+.Rotation p{
+    margin-left: 50%;
 }
 
 .Equator{
@@ -13,11 +17,32 @@
    
 }
 
+.Memories h4{
+    justify-content: center;
+    flex: 15%;
+    margin: center;
+    margin-left: 45%;
+}
+
 .Memories img{
     justify-content: center;
     flex: 15%;
     margin: center;
-    margin-right: 45%;
+    margin-left: 45%;
+}
+
+.Memories{
+    justify-content: center;
+    flex: 15%;
+    margin: center;
+    margin-left: 45%;
+}
+
+.Rotation p{
+    justify-content: center;
+    flex: 15%;
+    margin: center;
+    margin-left: 45%;
 }
 
 .Baby{
@@ -26,6 +51,13 @@
 
 .FFr{
     color: rgb(255, 91, 239);
+}
+
+.Wubbox{
+    justify-content: center;
+    flex: 15%;
+    margin: center;
+    margin-left: 45%;  
 }
 
 .FFo{
@@ -38,6 +70,13 @@
 
 .Exot{
     color: rgb(118, 118, 118);
+}
+
+.Comartment{
+    justify-content: center;
+    flex: 15%;
+    margin: center;
+    margin-left: 45%;  
 }
 
 .Onnet{
